@@ -1,3 +1,4 @@
 warunek is comming
 chyba ze mergowanie branchy
 inpg takie zdawalne
+probojemy konfly
